@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ezratweaver/wallpaper/atomone.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050708",
+        "foreground": "#c0c1c1",
+        "cursor": "#c0c1c1"
+    },
+    "colors": {
+        "color0": "#050708",
+        "color1": "#A28E6B",
+        "color2": "#DAAB7A",
+        "color3": "#6CB3DD",
+        "color4": "#71BBF1",
+        "color5": "#E88387",
+        "color6": "#D4A786",
+        "color7": "#c0c1c1",
+        "color8": "#434545",
+        "color9": "#A28E6B",
+        "color10": "#DAAB7A",
+        "color11": "#6CB3DD",
+        "color12": "#71BBF1",
+        "color13": "#E88387",
+        "color14": "#D4A786",
+        "color15": "#c0c1c1"
+    }
+}

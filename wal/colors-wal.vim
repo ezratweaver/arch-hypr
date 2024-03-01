@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ezratweaver/wallpaper/nordwall2.jpg"
+let background = "#282c34"
+let foreground = "#f0f2f4"
+let cursor     = "#f0f2f4"
+
+" Colors
+let color0  = "#98c379"
+let color1  = "#e5C07b"
+let color2  = "#e06c75"
+let color3  = "#98c379"
+let color4  = "#61afef"
+let color5  = "#56b6c2"
+let color6  = "#c678dd"
+let color7  = "#98c379"
+let color8  = "#e5c07b"
+let color9  = "#e5c07b"
+let color10 = "#e06c75"
+let color11 = "#61afef"
+let color12 = "#abb2bf"
+let color13 = "#61afef"
+let color14 = "#abb2bf"
+let color15 = "#e06c75"

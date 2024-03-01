@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ezratweaver/wallpaper/onedark.png",
+    "alpha": "100",
+    "special": {
+        "background": "#11161b",
+        "foreground": "#a8abbe",
+        "cursor": "#a8abbe"
+    },
+    "colors": {
+        "color0": "#11161b",
+        "color1": "#4A4C53",
+        "color2": "#545766",
+        "color3": "#695D64",
+        "color4": "#925A55",
+        "color5": "#A35344",
+        "color6": "#39658D",
+        "color7": "#a8abbe",
+        "color8": "#757785",
+        "color9": "#4A4C53",
+        "color10": "#545766",
+        "color11": "#695D64",
+        "color12": "#925A55",
+        "color13": "#A35344",
+        "color14": "#39658D",
+        "color15": "#a8abbe"
+    }
+}

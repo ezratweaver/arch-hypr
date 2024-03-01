@@ -1,0 +1,24 @@
+wallpaper: "/home/ezratweaver/wallpaper/nordwall2.jpg"
+
+special:
+    background: "#282c34"
+    foreground: "#f0f2f4"
+    cursor: "#f0f2f4"
+
+colors:
+    color0: "#98c379"
+    color1: "#e5C07b"
+    color2: "#e06c75"
+    color3: "#98c379"
+    color4: "#61afef"
+    color5: "#56b6c2"
+    color6: "#c678dd"
+    color7: "#98c379"
+    color8: "#e5c07b"
+    color9: "#e5c07b"
+    color10: "#e06c75"
+    color11: "#61afef"
+    color12: "#abb2bf"
+    color13: "#61afef"
+    color14: "#abb2bf"
+    color15: "#e06c75"
