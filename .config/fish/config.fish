@@ -64,7 +64,7 @@ if status is-interactive
 
     # starship init fish | source
     
-    set plugins https://github.com/kidonng/plug.fish
-    source $__fish_user_data_dir/plugins/plug.fish/conf.d/plugin_load.fish
+    #    set plugins https://github.com/kidonng/plug.fish
+    #    source $__fish_user_data_dir/plugins/plug.fish/conf.d/plugin_load.fish
 
 end

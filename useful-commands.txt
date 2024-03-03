@@ -1,0 +1,3 @@
+Restart pipewire stack
+
+systemctl --user restart wireplumber pipewire pipewire-pulse 
