@@ -42,15 +42,15 @@ if status is-interactive
     alias gwx="~/bin/gwx.sh"
     alias p="python"
 
-    # function cd --argument dir
-    #     if [ "dir" = "" ]
-    #         z $HOME
-    #     else
-    #         z $dir
-    #     end
-    # end
+    function cd --argument dir
+        if [ "dir" = "" ]
+            z $HOME
+        else
+            z $dir
+        end
+    end
 
-    # alias cdi="zi"
+    alias cdi="zi"
 
     alias gs="git status"
     alias ga="git add"
@@ -63,6 +63,8 @@ if status is-interactive
     alias gcheck="git checkout"
 
     # starship init fish | source
+
+    zoxide init fish | source
     
     #    set plugins https://github.com/kidonng/plug.fish
     #    source $__fish_user_data_dir/plugins/plug.fish/conf.d/plugin_load.fish
