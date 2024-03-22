@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ezratweaver/wallpaper/myfav.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#ecefea",
+        "cursor": "#ecefea"
+    },
+    "colors": {
+        "color0": "#2c3236",
+        "color1": "#c1060f",
+        "color2": "#4e9705",
+        "color3": "#507476",
+        "color4": "#3466a5",
+        "color5": "#77507a",
+        "color6": "#06959f",
+        "color7": "#d4d7d0",
+        "color8": "#525851",
+        "color9": "#ed2928",
+        "color10": "#88e231",
+        "color11": "#fde94e",
+        "color12": "#739fcf",
+        "color13": "#ac7fab",
+        "color14": "#2ee5e0",
+        "color15": "#ecefea"
+    }
+}
