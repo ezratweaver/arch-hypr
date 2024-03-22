@@ -97,4 +97,8 @@ vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
   }
 )
 
+lvim.keys.normal_mode["<C-A-k>"] = ":BufferLineCycleNext<CR>"
+lvim.keys.normal_mode["<C-A-j>"] = ":BufferLineCyclePrev<CR>"
+
+
 
