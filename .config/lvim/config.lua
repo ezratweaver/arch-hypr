@@ -16,10 +16,11 @@ lvim.plugins =
   { 'xiyaowong/transparent.nvim' },
   { 'miikanissi/modus-themes.nvim' },
   { 'folke/lsp-colors.nvim' },
+  { 'bluz71/vim-moonfly-colors' },
 }
 
 
-lvim.colorscheme = "modus" -- Set OneDark to the default theme
+lvim.colorscheme = "moonfly" -- Set default theme
 
 -- lvim.transparent_window = true
 
@@ -97,8 +98,8 @@ vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
   }
 )
 
-lvim.keys.normal_mode["<C-A-k>"] = ":BufferLineCycleNext<CR>"
-lvim.keys.normal_mode["<C-A-j>"] = ":BufferLineCyclePrev<CR>"
+lvim.keys.normal_mode["<A-k>"] = ":BufferLineCycleNext<CR>"
+lvim.keys.normal_mode["<A-j>"] = ":BufferLineCyclePrev<CR>"
 
 
 
